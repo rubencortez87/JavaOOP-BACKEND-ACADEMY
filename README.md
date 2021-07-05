@@ -6,7 +6,7 @@ Using OOP I was able to create a project that will help doctors and patients exp
 
 ## GETTING STARTED
 
-### re-requisites
+### Pre-requisites
 *Java SDK 8
 *INTELLIJ IDEA
 
