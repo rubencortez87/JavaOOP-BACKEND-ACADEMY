@@ -1,15 +1,15 @@
 # JavaOOP-BACKEND-ACADEMY
 JavaOOP Backend Academy
 
-##DESCRIPTION
+## DESCRIPTION
 Using OOP I was able to create a project that will help doctors and patients expedite the scheduling of appointments 
 
-##GETTING STARTED
+## GETTING STARTED
 
-###Pre-requisites
+### re-requisites
 *Java SDK 8
 *INTELLIJ IDEA
 
-##AUTHOR
+## AUTHOR
 Ruben Cortez
 @rubencortez87
