@@ -12,4 +12,6 @@ Using OOP I was able to create a project that will help doctors and patients exp
 
 ## AUTHOR
 Ruben Cortez
-@rubencortez87
+
+#### Gratitude
+Thanks platzi for de course and accenture for the opportunity
