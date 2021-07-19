@@ -11,7 +11,10 @@ All this I did in IntelliJ IDE building the classes.
 *Java SDK 8
 *INTELLIJ IDEA
 
-## AUTHOR
+### Version
+1.0
+
+### AUTHOR
 Ruben Cortez
 
 ### Gratitude
