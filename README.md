@@ -2,7 +2,8 @@
 JavaOOP Backend Academy
 
 ## DESCRIPTION
-Using OOP I was able to create a project that will help doctors and patients expedite the scheduling of appointments 
+Using OOP I was able to create a project that will help doctors and patients expedite the scheduling of appointments,
+All this I did in IntelliJ IDE building the classes.
 
 ## GETTING STARTED
 
@@ -12,4 +13,7 @@ Using OOP I was able to create a project that will help doctors and patients exp
 
 ## AUTHOR
 Ruben Cortez
-@rubencortez87
+
+### Gratitude
+
+Thaks platzi for the course and the teachers for the time and examples
